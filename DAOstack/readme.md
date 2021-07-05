@@ -5,8 +5,8 @@ and deployed onto https://github.com/tippi-fifestarr/feedback_week.git, everyone
 can "sign off" on how vague they want their "avatar" to be.  
 
 ## avatars
-IPFS links to "content", variable levels of detail (think of https://brilliant.org
-/practice/making-decisions-4/) to enhance vagueness and preserve psudoanonymity.
+IPFS links to "content", variable levels of detail (think of https://brilliant.org/practice/making-decisions-4/) 
+to enhance vagueness and preserve psudoanonymity.
 OR, no detail linked to each "document", rather summarize the "participants", and
 then structure the results by type.
 
