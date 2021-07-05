@@ -17,6 +17,7 @@ folder and document structure.
 ## participants
 over the course of the week, the following types manifested tangible (documentable)
 contributions to the feedback week:
+
 0. tippi fifestarr, webdev wingbird, often uses metamask
 1. recently retired american dad (1998 MCSE), has metamask
 2. mid thirties tri-lingual chinese man, no metamask
