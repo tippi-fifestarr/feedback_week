@@ -22,7 +22,7 @@ contributions to the feedback week:
 1. recently retired american dad (1998 MCSE), has metamask
 2. mid thirties tri-lingual chinese man, no metamask
 3. 29 year old tri-lingual hong konger, has metamask
-4. mid thirties american man bi-lingual, no metamask
+4. mid thirties american musician bi-lingual, no metamask
 5. mid thirties web 2.03 developer american, has metamask 
 6. 79 year old provincial midwestern capitalist, no metamask 
 
