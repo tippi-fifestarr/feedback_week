@@ -1,0 +1,31 @@
+After my initial investigation and intuition suggested DAOstack was deep, real and potentially awesome.
+
+My first step was to print up the whitepaper and read it for two days in the garden.
+I have lots of notes written onto the paper and created a couple "feedback week google docs" (see 0/links.txt), but I firmly believe 2021 is the time 
+for whitepaper 2.0 (or at least 1.9).  DAOstack and blockchain are poised at the edge of accessibility, and the core philosophy of both are capable of
+resonating with almost everyone. 
+
+Day 3 I finished reading and began writing "feedback week google doc", structuring the week into three sections:
+0. is project good?
+1. read whitepaper
+2. access and write to "community"
+3. implement technology
+
+1) whitepaper is very educational but has many unfortunate sentences and one very dubious keyword ("scheme"="plugin"?). 
+2) It took several steps (website & youtube -> discord -> telegram -> asking twice for help -> invitation to dev questions group) to
+get to somewhere where I could ask for help with setting up the WHAT DAO I DO?
+3) successfully deployed a DAO on rinkeby (this required many days of research to figure out) alchemy, got members to vote and add "plug-ins" such as 
+ability to "join" and send NFT).  rinkeby GEN faucet is broken and not sure where the WHAT tokens are or how to use most of the plug-ins especially the
+default plug-ins like "funding manager".
+
+DAOstack can attract more attention (that scarce resource) and more participation (even scarcer!) by more people (scaling!) with modern examples and 
+making a clear and clean pathway to productive actions (increase accessibility!).
+
+modern examples:
+real business problem: blockchain hackathons are heavily centralized and not trustless.
+real business problem: concept of DAO requires several steps into blockchain.world
+real business problem: there is not a clear and accessible "main path" for learning blockchain 
+real business problem: i am financially poor but idea rich
+
+solution:
+give us grant money and mentorship ;)

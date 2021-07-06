@@ -18,12 +18,12 @@ folder and document structure.
 over the course of the week, the following types manifested tangible (documentable)
 contributions to the feedback week:
 
-0. tippi fifestarr, webdev wingbird, often uses metamask
+0. tippi fifestarr, webdev wingbird, 双语， often uses metamask
 1. recently retired american dad (1998 MCSE), has metamask
 2. mid thirties tri-lingual chinese man, no metamask
-3. 29 year old tri-lingual hong konger, has metamask
+3. 29 year old tri-lingual hong konger, has metamasks
 4. mid thirties american musician bi-lingual, no metamask
-5. mid thirties web 2.03 developer american, has metamask 
+5. mid thirties web 2.03 developer americanjo, has metamask 
 6. 79 year old provincial midwestern capitalist, no metamask 
 
 the necessity to use this for our whole information system, the ultimate statement 
