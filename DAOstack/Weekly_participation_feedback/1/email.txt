@@ -1,0 +1,33 @@
+Thank you for sending me the 2018 Whitepaper from DaoStack.
+
+As a 71  year old former network engineer (not a programmer/developer) my impressions may not be very sophisticated, technically.
+
+Nevertheless, I did appreciate the logic and thoughtfulness that the paper exhibited.
+
+I noted that the components of the stack make sense as a rich set of tools and utilities to facilitate both the standardization 
+and the customization of governance templates and votes, to offer an efficient and inclusive method of reaching a consensus/hive
+mind decision on proposals, and allowing decentralized organizations to curate collections of data, and to offer a token (GEN) 
+to facilitate much of this.
+
+I note that while in 2018 these seemed to be very rich and complex tools, the whitepaper did not offer many real life examples 
+of how they are being implemented, presumably due to a lack of examples.
+
+Now, in July of 2021, it there are a number of DAOs visible on Alchemy, and an invitation to create a DAO is on the site. I note,
+though, that most have very few members and typically 0 open proposals, and that a very few do have even over 100 members and a 
+couple do have over a dozen open proposals.
+
+I read through one proposal marked “failing”. Caden Rain on xDXdao wanted to be paid for working to increase Omen’s usage, I guess. 
+There were no comments visible, and it seemed that the proposal has a time limitation and it seemed to have attracted little 
+attention, despite Caden having spoken with DAOStack team members a couple of times. Clearly it isn’t immediately apparent how this
+works, as 2 votes for and zero against seem to be enough to Pass on some of the proposals I looked at.
+
+Now I’m no expert, and I didn’t really even understand the proposal, but I wonder how many people read it and voted for or against it,
+and why. That process is not transparent, at least to me as an outsider, and I was surprised at that.
+
+My impression is that this work is designed for a future world of work in which collaboration is a higher good than competition, 
+and equity maybe is a higher good than profit, but that today’s world is not utilizing the tools of the future in a substantial way, 
+other than as crypto-investing/speculating, which I know is not DaoStack’s ultimate goal.
+
+So there seems to be a problem with usage volume, penetration of the market, and real world applications of the tools. Local businesses 
+in Chicago seem to be Centralized, for good or bad, and that seems true of most small businesses.  Maybe I’m not familiar enough with large,
+enterprise scale organizations, which perhaps could experiment with the model, but those seem to be centralized too, albeit spread out globally.
