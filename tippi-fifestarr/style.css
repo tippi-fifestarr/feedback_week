@@ -88,7 +88,7 @@
     margin-bottom: var(--margin-medium);
   }
 
-  .contact__email,
+  .contact__links,
   .contact__phone {
     transition: 0.2s ease-out color;
     cursor: pointer;
@@ -96,7 +96,7 @@
     align-items: center;
     margin-bottom: var(--margin-small);
   }
-  .contact__email img,
+  .contact__links img,
   .contact__phone img {
     margin-right: var(--margin-small);
   }
@@ -279,6 +279,11 @@
     height: 100%;
     object-fit: cover;
   }
+  .blog__image video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
 
   .blog__details {
     margin-bottom: var(--margin-large);
@@ -387,7 +392,7 @@
       color: var(--primary);
     }
 
-    .contact__email:hover,
+    .contact__links:hover,
     .contact__phone:hover,
     footer a:hover {
       color: var(--primary);
