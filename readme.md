@@ -17,3 +17,13 @@ forward the collection (including if possible a graph of my personal process).
 
 ## summary
 click the folders and navigate yourself (take your time) to explore.
+
+## contents
+
+week 0: DAOstack
+
+week 1: tippi fifestarr (https://tippi-fifestarr.github.io/feedback_week/tippi-fifestarr/)
+
+weekend 0: chainlink developer's bootcamp
+
+week 2: ?
