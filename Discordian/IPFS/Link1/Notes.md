@@ -1,7 +1,7 @@
-## 🚀 (Intro to IPFS + Filecoin)[https://youtu.be/wmuzky88xXs?t=44] 👨‍🚀
+## 🚀 [Intro to IPFS + Filecoin](https://youtu.be/wmuzky88xXs?t=44) 👨‍🚀
 
-(moment1)[https://youtu.be/wmuzky88xXs?t=51] : Awesome and simple introduction
-(moment2)[https://youtu.be/wmuzky88xXs?t=62] : You waste this early impact time on reading and expanding the text of the slides.  I suggest you start with an image + imagination exercise that somehow contains elements of all 5 of your presentation goals which are:
+[moment1](https://youtu.be/wmuzky88xXs?t=51) : Awesome and simple introduction
+[moment2][https://youtu.be/wmuzky88xXs?t=62] : You waste this early impact time on reading and expanding the text of the slides.  I suggest you start with an image + imagination exercise that somehow contains elements of all 5 of your presentation goals which are:
 
 0: (Why should we care about IPFS + Filecoin)
 1: Learn about the Core Concepts of IPFS & Filecoin
