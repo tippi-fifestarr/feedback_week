@@ -1,0 +1,46 @@
+WEEK 1 SUMMARY
+
+This week was quite eventfull, lots of progress in the quest to both gain further understanding of the DAOstack suite and how to build on top of it. 
+First positive is that my  encounter with Tippi Fifestar (the original instigator of the Weekly feedback logs, and yes we dont have to use real names in this space because... just because we can) has started to bear fruit, I have now understood why i have been unable to deploy a starter DAO using the provided hacker's kit. Through continuous communication with Tippi, I have discovered that the problem I was facing was due to the abscence of the DOCKER package in my local sever. Moreso I now definitely need to get rid of this computer if I am going to make further headway in my quest to become a profficient Solidity developer (self taught btw... its nice to say lol), the reason is that it requires an operating system upgrade to  at least windows 10, in order for me to install the DOCKER install software that will enable me carry on with the project.
+ 
+ Another positive developement for week 1 was my encounter with @arpt_singh through the DAO_stack support group tg. @arpt_singh appears to be a much more confident and experienced Solidity developer, from my conversations with him and my observation of how he was able to figure out a concern he had about the Arc.js web3 package with no assistance from the R&D members, makes me have more confidence in his skills as far as blockchain development goes. 
+ The more intresting development here is that in the course of our interactions, we have agreed to team up and develope on top of the DAOStack project. I suggested we set the goal to build crosschain capability into the project so that DAOs can easily interact accross chains. He suggested that there were already existing solutions for this feature. so I then suggested we build in some a unique functionality that enables DAOs propose, vote on and execute trades on decentralized exchanges using portions of the DAO funds, instead of just allocating funds to proposal creators. This suggestion was approved and we agreed that I would go ahead and dreft a proposal based upon this idea. I also voluteered to concentrate on curation and project management until I get a new pc and then can participate in the coding. 
+
+ One other point of intrest for me this week is that it's becoming a bit more apparent to me that choosing to go in dept on the DAO (governance and organizational administrative) sector in the blockchain space was the right decision. I observe how DAOs can be more efficient by harnessing the collective intelligence of its members. To put this into percpective, @arpt_singh suggested in conversation that he had a challenge of completely comprehending the theoritical aspect of the DAOStack project (may be this has also obstructed his progress), whereas he finds the technical aspects pretty easy to deal with, for me the reverse is the case (obviously because I'm less experienced and dont have computer science background). SO by teaming up, we can have the best of both halves working together at one task at a time pace. This generates a synegistic effect that will deliver an average individual output greater that what would be achieved had we worked on our own as seperate entities working simultaneously. 
+ Putting this principle to work on a larger scale can be a major improvement in over all organizational output and could pioneer the advent of the next major catalyst that reshapes and improves overall digital economic productivity.
+
+ My plan for week 2 is to begin the process of creating the proposal and  mobilizing potential participants.
+I will aim to develop a draft template for the project proposal and share with current participants (Tippi and @arpt_singh), once they approve, then we are officially a team.
+I also have created a telegam group relating to this idea. I called it DEXCENTRIC (a word I coined from DEX as in decentralized exchange, and eccentric as in volatile or dynamic), and have already added 10 people I selected from contacts in my telegram. These contacts are people that have indicated interest in my prior discussions on the Satoshi Street Bets voice chat forum, about the need for more robust frameworks for collective resource management, particualary because of the rapid growth in new blockchain start ups, communities and projects that have to rely on shared resources to implement their goals, and the potential risks also growing from this otherwise positive developement in crypto ecosystem.
+As at the time of creating this report, the group numbers 10 members. 
+
+My Goals here are to:
+-- build this number up to 50 members
+-- educate them about DAOs through articles and voice and video presentations of various related topics on the channel
+-- Guide them to participate in the project beta testing
+-- potentially have a pipeline investors for seed funding project development and marketing
+
+My strategy:
+--- develop a strategy???
+
+Tasks/goals for WEEK2
+--- create DEXCENTRIC DAO initialization/ Initial DAO Creation proposal template
+--- get feedback about the template created from Tippi, @arpt_singh and Nathan from CMC (my boss)
+--- add 10 new members to DEXCENTRIC tg
+--- create summary introduction of DAOs and DEXCENTRIC to be distributed to tg members
+--- get feedback on introduction from Tippi and @arpt_singh
+
+Week 2 Deliverables
+--- Initial DAO creation proposal template (google DOCS file: enable commenting)
+--- DEXCENTRIC tg group member count: 20
+--- Summary Introduction of DAOs and DEXCENTRIC (google DOCS file: enable commenting)
+
+
+
+Conclusion
+ So far I believe there has been way more progress for me this week than I previosly experienced with this particular project so looking foward to the next phase. I also belive the pace will increase a bit as Tippi was on vaccation (having a nice time by the waterside somewhere he wont disclose lol) for much of the week and so was not always available to interact. But hee seems to be back now and ready to get cracking again. 
+
+ Also I have been putting some ideas together for how we can go about raising funding for our project. I have have been building network of enthusiasts through my work for crypto marketing company and also my through contributions on ssb I have built a bit of trust within the community. I intend to propose hanessing these to plan and deploy ideas like creating sharing educative presentations and selling nfts at the end of each presentation to raise funding and awareness for the project, private crowdsale to tg members and a few others (lol no need to fly before you can crawl kenny...).
+ In general I believe that more progress will be made over the coming weeks.
+
+ 
