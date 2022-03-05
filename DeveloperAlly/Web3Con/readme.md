@@ -1,0 +1,16 @@
+# Feedback For Ally
+
+GM All!  Thanks for sharing this with me, you have activated a new (feedback week)[https://github.com/tippi-fifestarr/feedback_week/]!
+
+## I love your opening slide!
+
+You have a great sense of humor, but that first moment seems rushed and I got stressed that I missed the joke right away.
+My first feedback after watching and then listening again to the first couple minutes is this:
+
+> I know speed is important, so perhaps ramping up from slow to fast for the opening would only add a few seconds to the overall prezzo, but would 
+> really emphasize that you Don't Want To Overwhelm Us.
+
+We need some time to adjust to your speech parameters in the beginning of a video, and as an honorable teacher, you are allowed to propose rules, prerequisites, suggestions.
+https://youtu.be/Unzc731iCUY?t=18 The first 5 minutes of this is very interesting, and contains structural elements and even a useful formula for a "preamble".
+> he has some rules for don't text or use computer, you can make this about what tool's you'd suggest your audience use or not while listening.  Is this a "write questions in the chat" or "here's a collaborative document" or "fork this repo for slides and whatever" or "just sit back relax and let me blow your mind with this futuristic files and folder spaceship technology!"
+I think he makes a strong argument for "how to start", by the end of 5:36 seconds, reveals the Empowerment Promise.
