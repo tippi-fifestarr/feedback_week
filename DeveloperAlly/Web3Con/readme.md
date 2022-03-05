@@ -2,6 +2,9 @@
 
 GM All!  Thanks for sharing this with me, you have activated a new (feedback week)[https://github.com/tippi-fifestarr/feedback_week/]!
 
+![image](https://user-images.githubusercontent.com/62179036/156901060-7b64af9f-39f6-466a-80e8-28d6e4c6eb68.png)
+
+
 ## I love your opening slide!
 
 You have a great sense of humor, but that first moment seems rushed and I got stressed that I missed the joke right away.
