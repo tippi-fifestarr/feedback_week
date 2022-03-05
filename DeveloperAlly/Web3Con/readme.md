@@ -10,6 +10,7 @@ GM All!  Thanks for sharing this with me, you have activated a new (feedback wee
 You have a great sense of humor, but that first moment seems rushed and I got stressed that I missed the joke right away.
 My first feedback after watching and then listening again to the first couple minutes is this:
 
+### The part about Hackathons and why tech is awesome is SOOO GOOOD! 
 > I know speed is important, so perhaps ramping up from slow to fast for the opening would only add a few seconds to the overall prezzo, but would 
 > really emphasize that you Don't Want To Overwhelm Us.
 
