@@ -8,7 +8,7 @@ Links:
 2. https://youtu.be/mL20IZpVPuQ?t=1648 ([dApp tutorial by IPFS/Filecoin](https://youtu.be/mL20IZpVPuQ?t=1648))
 3. https://www.youtube.com/watch?v=xZiN9dLvMoU ([IPFS: Browser Connectivity Walkthrough](https://www.youtube.com/watch?v=xZiN9dLvMoU)
 4. https://www.youtube.com/watch?v=5-0_DqXGY-M (Hello Everyone: Introduction to IPFS & Filecoin)[https://www.youtube.com/watch?v=5-0_DqXGY-M]
-5. 
+5. https://www.youtube.com/watch?v=3FX4GJN9p9o (IPFS & Filecoin 201 Breaking Free from the Client-Server Model)[https://www.youtube.com/watch?v=3FX4GJN9p9o]
 
 > Spec: Using Yusef's Long Forgotten Chainlink Fall 2021 Forum Workshop as 5 star standard, provide feedback for Discordian to Discordian (and all of us).
 
